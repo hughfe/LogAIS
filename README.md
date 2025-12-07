@@ -7,4 +7,5 @@ All timestamps are in UTC.  Data from each UDP port is written to a separate fil
 Output files are organised in folders with year\month\day to facilitate finding specific events and ease of managing disk usage.
 
 The program will also log its activity.
-Some file permission errors give a "Please re-run installer" message, which will be more meaningfull when the installer is written.
+Program has been tested on Windows 11, Windows Server 2019 and Debian Bookworm.
+Some file permission errors give a "Please re-run installer" message, which will be more meaningful when there is an installer.
